@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Build-a-Pomodoro-Clock/static/css/main.0f6efcb6.css",
+    "main.js": "/Build-a-Pomodoro-Clock/static/js/main.b84b6378.js",
+    "static/media/beep.mp3": "/Build-a-Pomodoro-Clock/static/media/beep.d75049c3f83705934590.mp3",
+    "index.html": "/Build-a-Pomodoro-Clock/index.html",
+    "main.0f6efcb6.css.map": "/Build-a-Pomodoro-Clock/static/css/main.0f6efcb6.css.map",
+    "main.b84b6378.js.map": "/Build-a-Pomodoro-Clock/static/js/main.b84b6378.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f6efcb6.css",
+    "static/js/main.b84b6378.js"
+  ]
+}
